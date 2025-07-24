@@ -1,6 +1,7 @@
-*.css linguist-vendored
-*.scss linguist-vendored
-*.js linguist-vendored
-
-# Set the default behavior, in case people don't have core.autocrlf set.
-text=auto
+*.php linguist-language=PHP
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.js linguist-language=JavaScript
+css/* linguist-detectable=true
+js/* linguist-detectable=true
+o
