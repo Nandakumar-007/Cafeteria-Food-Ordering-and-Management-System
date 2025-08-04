@@ -1,1 +1,1 @@
-An Android-based food ordering app for cafeterias enabling users to browse menus, place orders, make secure payments, and track order history. Built using Java, XML, SQLite, and Android Studio with features for users, admins, and managers.
+An Android-based food ordering app for cafeterias enabling users to browse menus, place orders, make secure payments, and track order history. Built using PHP, Java, XML, SQLite, and Android Studio with features for users, admins, and managers.
